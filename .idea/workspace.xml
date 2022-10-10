@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df1cb7b2-4fd2-4465-ad7c-3d03a885b691" name="Changes" comment="Added : Harmonic Numbers">
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/basiccore/HarmonicNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/basiccore/LeapYear.java" afterDir="false" />
+    <list default="true" id="df1cb7b2-4fd2-4465-ad7c-3d03a885b691" name="Changes" comment="Added : Quotient Remainder">
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/basiccore/SwapTwoNumbersWithoutTemp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +74,28 @@
       <option name="project" value="LOCAL" />
       <updated>1665428055760</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added : Leap Year">
+      <created>1665428309864</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1665428309864</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added : Prime Factors">
+      <created>1665428429193</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1665428429193</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added : Quotient Remainder">
+      <created>1665428568075</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1665428568075</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,6 +115,9 @@
     <MESSAGE value="Added : Flip Coin Heads or Tails" />
     <MESSAGE value="Added : Greatest Number" />
     <MESSAGE value="Added : Harmonic Numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added : Harmonic Numbers" />
+    <MESSAGE value="Added : Leap Year" />
+    <MESSAGE value="Added : Prime Factors" />
+    <MESSAGE value="Added : Quotient Remainder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added : Quotient Remainder" />
   </component>
 </project>

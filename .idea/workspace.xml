@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df1cb7b2-4fd2-4465-ad7c-3d03a885b691" name="Changes" comment="Added : Alphabet Vowel and Consonent" />
+    <list default="true" id="df1cb7b2-4fd2-4465-ad7c-3d03a885b691" name="Changes" comment="Added : Even and Odd Number">
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/basiccore/FlipCoinHeadsTails.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +53,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665427285421</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added : Even and Odd Number">
+      <created>1665427789009</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665427789009</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -67,6 +76,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added : Alphabet Vowel and Consonent" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added : Alphabet Vowel and Consonent" />
+    <MESSAGE value="Added : Even and Odd Number" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added : Even and Odd Number" />
   </component>
 </project>

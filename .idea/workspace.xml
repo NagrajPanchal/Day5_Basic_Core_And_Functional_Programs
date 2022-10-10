@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df1cb7b2-4fd2-4465-ad7c-3d03a885b691" name="Changes" comment="Added : Quotient Remainder">
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/basiccore/SwapTwoNumbersWithoutTemp.java" afterDir="false" />
+    <list default="true" id="df1cb7b2-4fd2-4465-ad7c-3d03a885b691" name="Changes" comment="Added :Power and Base">
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/functional/Distance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/functional/Quadratic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/functional/WindChill.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +36,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Nagraj Panchal/Desktop/bridgeLabz/batch205/Day5_Basic_Core_And_Functional_Programs/src/com/bridgelabz"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -100,7 +103,28 @@
       <option name="project" value="LOCAL" />
       <updated>1665428568075</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added : Swap 2 numbers without Temp">
+      <created>1665428695723</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1665428695723</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added : Swap 2 numbers with Temp">
+      <created>1665428757531</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1665428757531</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added :Power and Base">
+      <created>1665428882959</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1665428882959</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,6 +147,9 @@
     <MESSAGE value="Added : Leap Year" />
     <MESSAGE value="Added : Prime Factors" />
     <MESSAGE value="Added : Quotient Remainder" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added : Quotient Remainder" />
+    <MESSAGE value="Added : Swap 2 numbers without Temp" />
+    <MESSAGE value="Added : Swap 2 numbers with Temp" />
+    <MESSAGE value="Added :Power and Base" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added :Power and Base" />
   </component>
 </project>
